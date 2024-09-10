@@ -1,0 +1,6 @@
+datasets/authorship/test.csv filter=lfs diff=lfs merge=lfs -text
+datasets/authorship/train.csv filter=lfs diff=lfs merge=lfs -text
+datasets/authorship/val.csv filter=lfs diff=lfs merge=lfs -text
+datasets/binary/test.csv filter=lfs diff=lfs merge=lfs -text
+datasets/binary/train.csv filter=lfs diff=lfs merge=lfs -text
+datasets/binary/val.csv filter=lfs diff=lfs merge=lfs -text
