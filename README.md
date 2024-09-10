@@ -75,3 +75,15 @@ For any questions about CoAT, codebase, or dataset configurations used in the pa
   publisher={Cambridge University Press}
 }
 ```
+
+The early version of CoAT is published as RuATD.
+
+```
+@article{shamardinafindings,
+  title={Findings of the The RuATD Shared Task 2022 on Artificial Text Detection in Russian},
+  author={Shamardina, Tatiana and Mikhailov, Vladislav and Chernianskii, Daniil and Fenogenova, Alena and Saidov, Marat and Valeeva, Anastasiya and Shavrina, Tatiana and Smurov, Ivan and Tutubalina, Elena and Artemova, Ekaterina}
+  journal={Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference ''Dialogue 2022''},
+  pages={1--15},
+  publisher={RSUH}
+}
+```
