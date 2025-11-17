@@ -67,11 +67,14 @@ For any questions about CoAT, codebase, or dataset configurations used in the pa
 ## Cite
 
 ```
-@article{shamardinacoat,
+@article{shamardina2025coat,
   title={CoAT: Corpus of artificial texts},
   author={Shamardina, Tatiana and Saidov, Marat and Fenogenova, Alena and Tumanov, Aleksandr and Zemlyakova, Alina and Lebedeva, Anna and Gryaznova, Ekaterina and Shavrina, Tatiana and Mikhailov, Vladislav and Artemova, Ekaterina},
   journal={Natural Language Processing},
-  pages={1--26},
+  volume={31},
+  number={1},
+  pages={150--175},
+  year={2025},
   publisher={Cambridge University Press}
 }
 ```
@@ -79,11 +82,10 @@ For any questions about CoAT, codebase, or dataset configurations used in the pa
 The early version of CoAT is published as RuATD.
 
 ```
-@article{shamardinafindings,
-  title={Findings of the The RuATD Shared Task 2022 on Artificial Text Detection in Russian},
-  author={Shamardina, Tatiana and Mikhailov, Vladislav and Chernianskii, Daniil and Fenogenova, Alena and Saidov, Marat and Valeeva, Anastasiya and Shavrina, Tatiana and Smurov, Ivan and Tutubalina, Elena and Artemova, Ekaterina}
-  journal={Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference ''Dialogue 2022''},
-  pages={1--15},
-  publisher={RSUH}
+@article{shamardina2022findings,
+  title={Findings of the the ruatd shared task 2022 on artificial text detection in russian},
+  author={Shamardina, Tatiana and Mikhailov, Vladislav and Chernianskii, Daniil and Fenogenova, Alena and Saidov, Marat and Valeeva, Anastasiya and Shavrina, Tatiana and Smurov, Ivan and Tutubalina, Elena and Artemova, Ekaterina},
+  journal={arXiv preprint arXiv:2206.01583},
+  year={2022}
 }
 ```
